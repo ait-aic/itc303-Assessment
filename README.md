@@ -1,11 +1,18 @@
-1)Project Documentation
+# Hardwicke Bay Progress Association (HWPA) Website Redevelopment
 
-README.md file including:
-Project title & description
-Team members & roles
-Link to the Project Charter & Initial Project Management Plan
-Setup instructions (if applicable)
-Project Wiki (Optional) for detailed documentation.
+## Project Description
+"<"text to be filled in">"
+
+## Team Members & Roles
+"<"to be filled in">"
+
+## Project Charter
+Link to be added
+
+## Initial Project Management Plan
+Link to be added
+
+
 2) Project Planning & Management Artifacts
 
 Gantt Chart (uploaded as an image or linked to an external tool).
